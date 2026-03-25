@@ -1,0 +1,6 @@
+ogen-agent/
+├── index.html          ← קובץ הצ'אט שיצרנו
+├── netlify.toml        ← הגדרות Netlify
+└── netlify/
+    └── functions/
+        └── chat.js     ← שרת הביניים
